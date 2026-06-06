@@ -1,0 +1,21 @@
+# ROS2
+build/
+install/
+log/
+
+# Python
+__pycache__/
+*.pyc
+
+# PlatformIO
+.pio/
+
+# VSCode
+.vscode/
+
+# Linux
+*.swp
+*~
+
+# Archivos temporales
+*.tmp
